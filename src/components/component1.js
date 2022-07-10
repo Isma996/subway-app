@@ -62,7 +62,7 @@ const Component1 = () => {
             your chosen name is <b>{chosenName}</b>
             <br />
             <br />
-            your angle is <b>{angles}</b>
+            your anglez is <b>{angles}</b>
         </div>
     )
 }
