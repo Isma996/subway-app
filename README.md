@@ -5,4 +5,4 @@
 - git add .
 - git commit -m 'the commit msgs lives here'
 - git push
-- git pull
+- git pull OR git fetch
