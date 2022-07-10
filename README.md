@@ -6,3 +6,4 @@
 - git commit -m 'the commit msgs lives here'
 - git push
 - git pull OR git fetch
+- git force with lease
