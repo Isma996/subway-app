@@ -7,3 +7,4 @@
 - git push
 - git pull OR git fetch
 - git force with lease
+git checkout -b new-branch
