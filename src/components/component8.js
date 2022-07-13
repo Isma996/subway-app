@@ -16,9 +16,11 @@ const Component8 = () => {
     function greet(name) {
    console.log("Hello my name is " + name)
     }
-    greet('nicole')
-    greet('jack')
+    greet('jul')
+    greet('naps')
 
+
+    
     return (
 
         <div>
