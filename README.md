@@ -8,3 +8,4 @@
 - git pull OR git fetch
 - git force with lease
 git checkout -b new-branch
+- to access pwd / ls/ cd
