@@ -16,7 +16,7 @@ function App() {
       <Component5 />
       <Component8 /> */}
       <Component9/>
-      <Component1/>
+      {/* <Component1/> */}
 
     </div>
   );
