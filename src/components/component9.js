@@ -14,17 +14,11 @@ function addPrice (price){
     setIsDisabled(true)
 }
 
-function angle(width,height){
-   const b= width * height 
-   return b
-}
 
-const a1= angle(3,4)
-const a2= angle(2,3)
 
 return (
         <div>
-<h1>LeSUBway</h1>
+<h1>LeSUBway2</h1>
 
 <br></br>
 <h2>choose your bread</h2>
